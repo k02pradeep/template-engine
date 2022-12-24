@@ -13,6 +13,4 @@ class DataLabelTag {
   `;
 }
 
-module.exports = {
-  DataLabelTag: DataLabelTag,
-};
+module.exports = DataLabelTag

@@ -13,6 +13,4 @@ class AnyTag {
   static tagSchema = `<layout><content></content</layout>`;
 }
 
-module.exports = {
-  AnyTag: AnyTag,
-};
+module.exports = AnyTag

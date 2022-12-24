@@ -10,6 +10,4 @@ class PageTag {
   }
 }
 
-module.exports = {
-  PageTag: PageTag,
-};
+module.exports = PageTag
